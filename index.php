@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World. Docker hub Build";
+echo "Hello World from Docker";
